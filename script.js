@@ -14,6 +14,7 @@
    11. Project filtering
    12. Animated counters
    13. Contact form validation
+   hello
    ========================================================================== */
 
 /* ---------- 1. CONFIG ---------- */
