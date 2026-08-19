@@ -39,7 +39,7 @@ const portfolioConfig = {
   aboutTraits: ["Curious learner", "Problem solver", "Detail oriented", "Always improving"],
 
   socialLinks: {
-    github: "https://github.com/yourusername",
+    github: "https://github.com/devnyati2971-beep",
     linkedin: "https://linkedin.com/in/devansh-maheshwari-8ba378428",
     instagram: "https://instagram.com/deva_nyati"
   },
