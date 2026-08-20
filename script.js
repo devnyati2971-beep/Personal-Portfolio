@@ -25,9 +25,9 @@ const portfolioConfig = {
   rolesRotating: ["Frontend Developer", "Full Stack Developer", "Python Developer"],
   location: "Bhilwara, Rajasthan",
   email: "devnyati2971@gmail.com",
-  formspreeId: "YOUR_FORMSPREE_ID",   
-  profileImage: "assets/images/profile.jpg",  
-  resumePath: "assets/resume/resume.pdf",     
+  formspreeId: "YOUR_FORMSPREE_ID",
+  profileImage: "assets/images/profile.jpg",
+  resumePath: "assets/resume/resume.pdf",
 
   bio: "👨‍💻 Aspiring developer learning, building, breaking, and fixing things while exploring 🐧 Linux, 🐍 Python, and 🌐 web development — 🚀 just getting started.",
 
@@ -459,7 +459,7 @@ function initEditorTyping() {
     { indent: 1, html: `<span class="tok-key">"stack"</span>: [<span class="tok-str">"HTML"</span>, <span class="tok-str">"CSS"</span>, <span class="tok-str">"JS"</span>],` },
     { indent: 0, html: `}` },
     { indent: 0, html: `print("Hi, I'm", profile["name"])` },
-    
+
   ];
 
   // build gutter
